@@ -4,6 +4,11 @@ import java.awt.*;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
+/**
+ * author: Jonas Ermert
+ * version 1.0
+ */
+
 public class DigitalClock extends JFrame {
 
     JLabel jlabClock;

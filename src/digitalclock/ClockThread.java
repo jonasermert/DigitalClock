@@ -2,6 +2,10 @@ package digitalclock;
 
 import java.util.Date;
 
+/**
+ * author: Jonas Ermert
+ * version 1.0
+ */
 
 public class ClockThread extends Thread {
 
